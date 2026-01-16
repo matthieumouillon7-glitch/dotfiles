@@ -73,3 +73,7 @@ export PYTHONBREAKPOINT=ipdb.set_trace
 export PYTHONPATH="/home/matthieumouillon/code/matthieumouillon7-glitch/03-Decision-Science:$PYTHONPATH"
 export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
 export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
