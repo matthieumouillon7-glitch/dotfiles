@@ -82,3 +82,7 @@ export GOOGLE_APPLICATION_CREDENTIALS=/home/matthieumouillon7/code/matthieumouil
 export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
 export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
 export GOOGLE_APPLICATION_CREDENTIALS=/home/matthieumouillon/code/matthieumouillon7-glitch/gcp/wagon-bootcamp-471516-475714-1cf44dad2f4a.json
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
+export BROWSER="/mnt/c/Program Files/Google/Chrome/Application/chrome.exe"
+export GH_BROWSER="'/mnt/c/Program Files/Google/Chrome/Application/chrome.exe'"
